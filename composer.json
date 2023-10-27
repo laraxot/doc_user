@@ -1,4 +1,7 @@
 {
+    "name": "laraxot/module_user",
+    "description": "user module",
+    "license": "MIT",
     "require": {
         "tightenco/jigsaw": "^1.7",
         "tightenco/jigsaw-docs-template": "^1.1",
